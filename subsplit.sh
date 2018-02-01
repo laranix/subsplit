@@ -12,4 +12,4 @@ git subsplit publish "
     src/Laranix/Support:git@github.com:laranix/Support.git
     src/Laranix/Themer:git@github.com:laranix/Themer.git
     src/Laranix/Tracker:git@github.com:laranix/Tracker.git
-" --heads="master 2.0 3.0"
+" --heads="master 4.0"
